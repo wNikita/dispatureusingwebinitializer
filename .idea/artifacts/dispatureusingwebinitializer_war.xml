@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dispatureusingwebinitializer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dispatureusingwebinitializer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dispatureusingwebinitializer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dispatureusingwebinitializer:war exploded" />
+    </root>
+  </artifact>
+</component>
